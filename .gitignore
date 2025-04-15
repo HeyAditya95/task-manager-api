@@ -1,4 +1,6 @@
-/vendor/
-/.env
-*.log
 *.exe
+*.test
+*.out
+.DS_Store
+.vscode/
+.idea/
